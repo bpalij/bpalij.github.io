@@ -1,0 +1,48 @@
+h1,h2,h3,h4,h5,h6{
+	text-align: center;;
+}
+.top{
+	background-color: #337ab7;
+	color: white;
+	text-decoration: none;
+}
+.top>a{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	/*color, background-color,text-decoration: : inherit;*/
+	float: right;
+	padding: 10px;
+}
+.top>a:hover{
+	background-color: white;
+	color: black;
+	text-decoration: underline;
+}
+.clr-fix{
+	clear: both;
+}
+#portfolio{
+	width: 100%;
+	/*padding: 10px;*/
+}
+.portfolio-item{
+	border: 1px solid black;
+	margin: 5px;
+	/*line-height: 2em;*/
+	/*text-align: center;*/
+}
+.portfolio-item>img{
+	width: 100%;
+}
+.portfolio-item>p{
+	margin: 10px;
+	text-align: center;
+}
+.portfolio-item:hover{
+	background-color: #337ab7;
+	color: white; 
+}
+.btn-social{
+	margin: 10px;
+}
