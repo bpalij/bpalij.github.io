@@ -5,6 +5,14 @@ $('#portfolio1').click(function () {
 	document.location.href="portfolio/1.html"
 	// alert("true");
 });
+$('#portfolio1').tap(function () {
+	document.location.href="portfolio/1.html"
+	// alert("true");
+});
+$('#portfolio1').vclick(function () {
+	document.location.href="portfolio/1.html"
+	// alert("true");
+});
 $('.btn-social').mouseenter(function(){
 	$(this).addClass("btn-primary");
 	$(this).removeClass("btn-default");
