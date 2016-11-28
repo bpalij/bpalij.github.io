@@ -41,3 +41,8 @@ function clickOnCodepen(){
 function clickOnFcc(){
 	document.location.href="https://www.freecodecamp.com/bpalij"
 };
+function p2() {
+	document.location.href="portfolio/2.html"
+	// alert("true");
+};
+fun
