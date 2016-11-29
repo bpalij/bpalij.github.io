@@ -45,4 +45,7 @@ function p2() {
 	document.location.href="portfolio/2.html"
 	// alert("true");
 };
-fun
+function p3() {
+	document.location.href="portfolio/3.html"
+	// alert("true");
+};
