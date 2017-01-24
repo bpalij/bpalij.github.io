@@ -25,3 +25,7 @@ function p3() {
 	document.location.href="portfolio/3.html"
 	// alert("true");
 };
+function p4() {
+	document.location.href="portfolio/4.html"
+	// alert("true");
+};
